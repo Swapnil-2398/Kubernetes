@@ -167,3 +167,7 @@ kubectl get replication controller
 kubectl get replicationcontroller
 kubectl get pods -o wide
 kubectl get nodes -o wide
+git init
+git add .
+git commit -m "a"
+git status
