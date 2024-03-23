@@ -4,7 +4,7 @@ kind: Pod
 metadata:
   name: nginx-pod
   labels: 
-   type: proxy
+   type: proxi
    author: Daccess
 
 spec:

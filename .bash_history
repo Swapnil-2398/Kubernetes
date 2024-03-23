@@ -171,3 +171,121 @@ git init
 git add .
 git commit -m "a"
 git status
+git init
+git remote add origin https://github.com/Swapnil-2398/Kubernetes.git
+git add .
+git commit -m "a"
+git commit -m "1a"
+git branch -M main
+git remote add origin https://github.com/Swapnil-2398/Kubernetes.git
+git push -u origin main
+vim replicaset.yml
+kubectl appl -f replicaset.yml 
+kubectl apply -f replicaset.yml 
+vim replicaset.yml
+kubectl apply -f replicaset.yml 
+vim replicaset.yml
+kubectl apply -f replicaset.yml 
+kubectl get pods
+kubectl get replicaset
+kubectl get replicationcontroller
+kubectl get pods
+vim replicaset.yml
+kubectl replace replicaset.yml 
+kubectl replace -f replicaset.yml 
+kubectl get pods -o wide
+kubectl delete replicatio-controler.yml 
+kubectl delete replicatio-controller.yml 
+kubectl delete -f replicatio-controller.yml 
+kubectl delete -f replicatio-controler.yml 
+kubectl get pods -o wide
+kubectl get nodes -o wide
+eksctl delete cluster --name cluster2 --region us-west-2
+eksctl create cluster --name cluster3 --region us-west-2 --node-type t3.large --nodes 3
+eksctl delete cluster --name cluster3 --region us-west-2
+eksctl create cluster --name cluster03 --region us-west-2--node-type t3.large --nodes 3
+eksctl create cluster --name cluster3 --region us-west-2 --node-type t3.large --nodes 3
+eksctl delete cluster --name cluster3 --region us-west-2
+eksctl create cluster --name cluster3 --region us-west-2 --node-type t3.large --nodes 3
+eksctl create cluster --name cluster4 --region us-west-2 --node-type t3.large --nodes 3
+vim deployment.yml
+kubectl apply -f deployment.yml 
+vim deployment.yml
+kubectl apply -f deployment.yml 
+vim deployment.yml
+kubectl apply -f deployment.yml 
+vim deployment.yml
+kubectl apply -f deployment.yml 
+vim deployment.yml
+kubectl apply -f deployment.yml 
+vim deployment.yml
+kubectl apply -f deployment.yml 
+vim deployment.yml
+kubectl apply -f deployment.yml 
+vim deployment.yml
+eksctl delete cluster --name cluster3 --region us-west-2
+eksctl create cluster --name cluster2 --region us-west-2 --node-type t3.large --nodes 3
+ls
+vim deployment.yml 
+kubectl apply -f deployment.yml 
+vim deployment.yml 
+kubectl apply -f deployment.yml 
+vim deployment.yml 
+kubectl apply -f deployment.yml 
+kubectl get pods
+kubectl get pods -o wide
+kubectl get nodes
+vim deployment2.yml
+kubectl apply -f deployment2.yml
+kubectl get pods
+kubectl get pods nginx-pod -o wide
+kubectl get pods -o wide
+kubectl get nodes -o wide
+vim deployment2.yml
+kubectl delete nginx-pod
+vim deployment2.yml
+kubectl delete deployment2.yml 
+ls
+kubectl delete pod mynginx
+kubectl get pods
+kubectl delete pod nginx-deployment
+kubectl delete nginx-deployment
+kubectl delete  pods nginx-deployment
+kubectl delete -f deployment2.yml 
+kubectl get pods
+kubectl delete -f deployment.yml 
+kubectl get pods
+kubectl apply -f deployment2.yml 
+kubectl get pods
+kubectl get pods -o wide
+kubectl get nodes -o wide
+eksctl delete cluster --name cluster2 --region us-west-2
+eksctl create cluster --name cluster2 --region us-west-2 --node-type t3.large --nodes 3
+vim deployment3.yml
+kubectl apply -f deployment3.yml 
+kubectl get pods
+kubectl get pods -o wide
+kubectl get all
+kubectl get nodes -o wide
+vim deployment3.yml 
+kubectl delete -f deployment3.yml 
+kubectl apply -f deployment3.yml 
+kubectl get nodes -o wide
+vim daemonset.yml
+kubectl apply -f daemonset.yml 
+vim daemonset.yml
+kubectl apply -f daemonset.yml 
+kubectl get all
+kubectl delete -f deployment3.yml 
+kubectl get all
+ls
+vim pod1.yml 
+vim service1.yml
+kubectl apply -f service1.yml 
+kubectl get pods
+kubectl delete -f daemonset.yml 
+kubectl apply -f pod1.yml 
+kubectl get all
+kubectl get pods -o wide
+kubectl get nodes
+kubectl get nodes -o wide

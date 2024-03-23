@@ -1,0 +1,27 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tomcat-deployment
+  labels:
+    type: testserver
+    author: accenture
+
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      type: testserver
+  template:
+    metadata:
+      name: tomcat-pod
+      labels:
+        type: testserver
+    spec:
+      containers:
+        - name: mytomcat
+          image: tomee
+          ports:
+            - containerPort: 8080
+              hostPort: 9999
+...

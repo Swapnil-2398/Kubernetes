@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710858184,,"wq"
+|2,0,1711206562,,"wq"
 :q!
 |2,0,1710855906,,"q!"
 :q
@@ -29,230 +29,350 @@
 # Registers:
 
 # File marks:
-'0  25  2  ~/replicatio-controler.yml
-|4,48,25,2,1710858184,"~/replicatio-controler.yml"
-'1  19  23  ~/namespace-pod.yml
-|4,49,19,23,1710856976,"~/namespace-pod.yml"
-'2  8  16  ~/namespace-pod.yml
-|4,50,8,16,1710856773,"~/namespace-pod.yml"
-'3  8  16  ~/namespace-pod.yml
-|4,51,8,16,1710856773,"~/namespace-pod.yml"
-'4  6  19  ~/namespace-pod.yml
-|4,52,6,19,1710856669,"~/namespace-pod.yml"
-'5  6  19  ~/namespace-pod.yml
-|4,53,6,19,1710856669,"~/namespace-pod.yml"
-'6  6  19  ~/namespace-pod.yml
-|4,54,6,19,1710856669,"~/namespace-pod.yml"
-'7  6  19  ~/namespace-pod.yml
-|4,55,6,19,1710856669,"~/namespace-pod.yml"
-'8  20  2  ~/namespace-pod.yml
-|4,56,20,2,1710856613,"~/namespace-pod.yml"
-'9  16  2  ~/namespace-pod.yml
-|4,57,16,2,1710856613,"~/namespace-pod.yml"
+'0  17  2  ~/service1.yml
+|4,48,17,2,1711206562,"~/service1.yml"
+'1  12  13  ~/pod1.yml
+|4,49,12,13,1711206242,"~/pod1.yml"
+'2  3  12  ~/daemonset.yml
+|4,50,3,12,1711205198,"~/daemonset.yml"
+'3  8  18  ~/daemonset.yml
+|4,51,8,18,1711205144,"~/daemonset.yml"
+'4  8  18  ~/daemonset.yml
+|4,52,8,18,1711205144,"~/daemonset.yml"
+'5  25  30  ~/deployment3.yml
+|4,53,25,30,1711204653,"~/deployment3.yml"
+'6  27  2  ~/deployment3.yml
+|4,54,27,2,1711204221,"~/deployment3.yml"
+'7  27  2  ~/deployment3.yml
+|4,55,27,2,1711204221,"~/deployment3.yml"
+'8  23  28  ~/deployment2.yml
+|4,56,23,28,1711185621,"~/deployment2.yml"
+'9  23  28  ~/deployment2.yml
+|4,57,23,28,1711185552,"~/deployment2.yml"
 
 # Jumplist (newest first):
--'  25  2  ~/replicatio-controler.yml
-|4,39,25,2,1710858184,"~/replicatio-controler.yml"
--'  1  0  ~/replicatio-controler.yml
-|4,39,1,0,1710857841,"~/replicatio-controler.yml"
--'  19  23  ~/namespace-pod.yml
-|4,39,19,23,1710856976,"~/namespace-pod.yml"
--'  19  23  ~/namespace-pod.yml
-|4,39,19,23,1710856976,"~/namespace-pod.yml"
--'  8  16  ~/namespace-pod.yml
-|4,39,8,16,1710856905,"~/namespace-pod.yml"
--'  8  16  ~/namespace-pod.yml
-|4,39,8,16,1710856905,"~/namespace-pod.yml"
--'  8  16  ~/namespace-pod.yml
-|4,39,8,16,1710856773,"~/namespace-pod.yml"
--'  8  16  ~/namespace-pod.yml
-|4,39,8,16,1710856773,"~/namespace-pod.yml"
--'  6  19  ~/namespace-pod.yml
-|4,39,6,19,1710856727,"~/namespace-pod.yml"
--'  6  19  ~/namespace-pod.yml
-|4,39,6,19,1710856727,"~/namespace-pod.yml"
--'  6  19  ~/namespace-pod.yml
-|4,39,6,19,1710856727,"~/namespace-pod.yml"
--'  6  19  ~/namespace-pod.yml
-|4,39,6,19,1710856727,"~/namespace-pod.yml"
--'  6  19  ~/namespace-pod.yml
-|4,39,6,19,1710856669,"~/namespace-pod.yml"
--'  6  19  ~/namespace-pod.yml
-|4,39,6,19,1710856669,"~/namespace-pod.yml"
--'  20  2  ~/namespace-pod.yml
-|4,39,20,2,1710856634,"~/namespace-pod.yml"
--'  17  2  ~/namespace-pod.yml
-|4,39,17,2,1710856634,"~/namespace-pod.yml"
--'  17  2  ~/namespace-pod.yml
-|4,39,17,2,1710856634,"~/namespace-pod.yml"
--'  20  2  ~/namespace-pod.yml
-|4,39,20,2,1710856634,"~/namespace-pod.yml"
--'  17  2  ~/namespace-pod.yml
-|4,39,17,2,1710856634,"~/namespace-pod.yml"
--'  17  2  ~/namespace-pod.yml
-|4,39,17,2,1710856634,"~/namespace-pod.yml"
--'  16  2  ~/namespace-pod.yml
-|4,39,16,2,1710856613,"~/namespace-pod.yml"
--'  16  2  ~/namespace-pod.yml
-|4,39,16,2,1710856613,"~/namespace-pod.yml"
--'  16  2  ~/namespace-pod.yml
-|4,39,16,2,1710856613,"~/namespace-pod.yml"
--'  16  2  ~/namespace-pod.yml
-|4,39,16,2,1710856613,"~/namespace-pod.yml"
--'  16  2  ~/namespace-pod.yml
-|4,39,16,2,1710856613,"~/namespace-pod.yml"
--'  16  2  ~/namespace-pod.yml
-|4,39,16,2,1710856613,"~/namespace-pod.yml"
--'  1  0  ~/namespace-pod.yml
-|4,39,1,0,1710856373,"~/namespace-pod.yml"
--'  1  0  ~/namespace-pod.yml
-|4,39,1,0,1710856373,"~/namespace-pod.yml"
--'  1  0  ~/namespace-pod.yml
-|4,39,1,0,1710856373,"~/namespace-pod.yml"
--'  1  0  ~/namespace-pod.yml
-|4,39,1,0,1710856373,"~/namespace-pod.yml"
--'  1  0  ~/namespace-pod.yml
-|4,39,1,0,1710856373,"~/namespace-pod.yml"
--'  1  0  ~/namespace-pod.yml
-|4,39,1,0,1710856373,"~/namespace-pod.yml"
--'  1  0  ~/namespace-pod.yml
-|4,39,1,0,1710856373,"~/namespace-pod.yml"
--'  1  0  ~/namespace-pod.yml
-|4,39,1,0,1710856373,"~/namespace-pod.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  6  2  ~/namespace.yml
-|4,39,6,2,1710855995,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  1  0  ~/namespace.yml
-|4,39,1,0,1710855917,"~/namespace.yml"
--'  5  0  ~/test-ns.yml
-|4,39,5,0,1710855906,"~/test-ns.yml"
--'  5  0  ~/test-ns.yml
-|4,39,5,0,1710855906,"~/test-ns.yml"
+-'  17  2  ~/service1.yml
+|4,39,17,2,1711206562,"~/service1.yml"
+-'  1  0  ~/service1.yml
+|4,39,1,0,1711206254,"~/service1.yml"
+-'  12  13  ~/pod1.yml
+|4,39,12,13,1711206242,"~/pod1.yml"
+-'  12  13  ~/pod1.yml
+|4,39,12,13,1711206242,"~/pod1.yml"
+-'  10  0  ~/pod1.yml
+|4,39,10,0,1711206213,"~/pod1.yml"
+-'  10  0  ~/pod1.yml
+|4,39,10,0,1711206213,"~/pod1.yml"
+-'  3  12  ~/daemonset.yml
+|4,39,3,12,1711205198,"~/daemonset.yml"
+-'  3  12  ~/daemonset.yml
+|4,39,3,12,1711205198,"~/daemonset.yml"
+-'  3  12  ~/daemonset.yml
+|4,39,3,12,1711205198,"~/daemonset.yml"
+-'  3  12  ~/daemonset.yml
+|4,39,3,12,1711205198,"~/daemonset.yml"
+-'  8  18  ~/daemonset.yml
+|4,39,8,18,1711205186,"~/daemonset.yml"
+-'  8  18  ~/daemonset.yml
+|4,39,8,18,1711205186,"~/daemonset.yml"
+-'  8  18  ~/daemonset.yml
+|4,39,8,18,1711205186,"~/daemonset.yml"
+-'  8  18  ~/daemonset.yml
+|4,39,8,18,1711205186,"~/daemonset.yml"
+-'  8  18  ~/daemonset.yml
+|4,39,8,18,1711205144,"~/daemonset.yml"
+-'  8  18  ~/daemonset.yml
+|4,39,8,18,1711205144,"~/daemonset.yml"
+-'  8  18  ~/daemonset.yml
+|4,39,8,18,1711205144,"~/daemonset.yml"
+-'  8  18  ~/daemonset.yml
+|4,39,8,18,1711205144,"~/daemonset.yml"
+-'  1  0  ~/daemonset.yml
+|4,39,1,0,1711204857,"~/daemonset.yml"
+-'  1  0  ~/daemonset.yml
+|4,39,1,0,1711204857,"~/daemonset.yml"
+-'  1  0  ~/daemonset.yml
+|4,39,1,0,1711204857,"~/daemonset.yml"
+-'  1  0  ~/daemonset.yml
+|4,39,1,0,1711204857,"~/daemonset.yml"
+-'  1  0  ~/daemonset.yml
+|4,39,1,0,1711204857,"~/daemonset.yml"
+-'  1  0  ~/daemonset.yml
+|4,39,1,0,1711204857,"~/daemonset.yml"
+-'  1  0  ~/daemonset.yml
+|4,39,1,0,1711204857,"~/daemonset.yml"
+-'  1  0  ~/daemonset.yml
+|4,39,1,0,1711204857,"~/daemonset.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  25  30  ~/deployment3.yml
+|4,39,25,30,1711204653,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204632,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  27  2  ~/deployment3.yml
+|4,39,27,2,1711204221,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
+-'  1  0  ~/deployment3.yml
+|4,39,1,0,1711203834,"~/deployment3.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/service1.yml
+	*	1711206560	0
+	"	17	2
+	^	17	3
+	.	17	2
+	+	18	0
+	+	6	8
+	+	7	15
+	+	10	16
+	+	14	21
+	+	17	2
+
+> ~/pod1.yml
+	*	1711206241	0
+	"	12	13
+	^	12	14
+	.	7	13
+	+	2	14
+	+	14	0
+	+	6	7
+	+	3	8
+	+	5	16
+	+	13	13
+	+	12	10
+	+	13	4
+	+	14	2
+	+	3	6
+	+	11	11
+	+	7	2
+	+	9	0
+	+	7	13
+
+> ~/daemonset.yml
+	*	1711205197	0
+	"	3	12
+	^	3	13
+	.	3	12
+	+	19	8
+	+	18	22
+	+	26	2
+	+	8	18
+	+	3	12
+
+> ~/deployment3.yml
+	*	1711204650	0
+	"	25	30
+	^	25	31
+	.	25	30
+	+	20	8
+	+	17	22
+	+	19	23
+	+	27	2
+	+	25	30
+
+> ~/deployment2.yml
+	*	1711185620	0
+	"	23	28
+	^	23	29
+	.	23	28
+	+	18	8
+	+	17	18
+	+	23	33
+	+	25	2
+	+	23	28
+
+> ~/deployment.yml
+	*	1711184608	0
+	"	14	7
+	^	14	8
+	.	18	7
+	+	26	2
+	+	25	26
+	+	24	17
+	+	25	12
+	+	24	13
+	+	25	4
+	+	24	39
+	+	5	13
+	+	18	13
+	+	8	11
+	+	13	14
+	+	18	13
+	+	17	12
+	+	18	7
+
+> ~/replicaset.yml
+	*	1710861388	0
+	"	11	11
+	^	11	12
+	.	11	11
+	+	11	0
+	+	7	1
+	+	6	8
+	+	7	19
+	+	9	0
+	+	12	10
+	+	21	8
+	+	20	0
+	+	28	2
+	+	15	0
+	+	16	4
+	+	17	6
+	+	18	6
+	+	19	8
+	+	21	0
+	+	22	4
+	+	23	6
+	+	24	8
+	+	25	8
+	+	26	10
+	+	27	12
+	+	21	3
+	+	22	5
+	+	23	7
+	+	24	9
+	+	25	9
+	+	26	11
+	+	27	13
+	+	11	11
 
 > ~/replicatio-controler.yml
 	*	1710858182	0
@@ -350,25 +470,6 @@
 	^	10	0
 	.	9	0
 	+	17	2
-	+	9	0
-
-> ~/pod1.yml
-	*	1710433864	0
-	"	10	0
-	^	10	0
-	.	9	0
-	+	2	14
-	+	14	0
-	+	6	7
-	+	3	8
-	+	5	16
-	+	13	13
-	+	12	10
-	+	13	4
-	+	14	2
-	+	3	6
-	+	11	11
-	+	7	2
 	+	9	0
 
 > ~/.kube/config
